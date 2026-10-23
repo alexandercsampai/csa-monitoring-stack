@@ -1,6 +1,7 @@
 # csa-monitoring-stack
 A containerized observability and system monitoring stack deployed on Fedora Linux. Designed to track real-time hardware telemetry, container health, and system performance metrics.
-My Tech Stack
+
+My Tech Stack:
 
     Prometheus: Systems monitoring and metrics scraping engine.
 
