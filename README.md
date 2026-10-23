@@ -22,8 +22,8 @@ Docker/Podman with docker compose
 
 Quick start:
 clone the repo & and go in the directory
-'''git clone https://github.com/alexandercsampai/csa-monitoring-stack.git & cd csa-monitoring-stack
+'git clone https://github.com/alexandercsampai/csa-monitoring-stack.git & cd csa-monitoring-stack'
 
 spin up the container
-'''docker compose up -d
+'docker compose up -d'
 
