@@ -26,3 +26,6 @@ clone the repo & and go in the directory
 spin up the container
 `docker compose up -d`
 
+## Dashboard Preview
+
+![Grafana Dashboard](grafana.png)
