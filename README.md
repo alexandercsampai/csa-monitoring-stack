@@ -13,8 +13,6 @@ My Tech Stack:
 
     Smartctl Exporter: S.M.A.R.T. disk health and temperature monitoring.
 
-Architecture and Configuration
-
 All services run isolated inside a custom bridge network (monitoring) with persistent volume management for metrics and dashboards.
 
 Requirements: 
